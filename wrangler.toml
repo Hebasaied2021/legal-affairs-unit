@@ -1,0 +1,8 @@
+name = "legal-registry"
+compatibility_date = "2026-09-01"
+pages_build_output_dir = "."
+
+[[d1_databases]]
+binding = "DB"
+database_name = "legal-registry-db"
+database_id = "REPLACE_WITH_YOUR_DATABASE_ID"
